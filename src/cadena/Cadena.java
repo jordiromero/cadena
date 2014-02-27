@@ -17,7 +17,7 @@ public class Cadena {
      */
     public static void main(String[] args) {
         String nom;
-        nom="Anna";
+        nom="Jordi";
         System.out.println("El nom "+nom+" té " +nom.length()+" caràcters \n");
         System.out.println("El nom "+nom+" té la lletra 'i' en la posició "+nom.indexOf("i")+"\n");
         System.out.println("Comença per: "+nom.substring(0,3));
